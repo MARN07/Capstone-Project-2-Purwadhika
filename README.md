@@ -1,4 +1,4 @@
-# Capstone-Project-2
+# Strategic Analysis and Intervention to Mitigate Net Losses in SaaS Sales Across Countries 
 
 ## A. Bisnis Problem Understanding
 
